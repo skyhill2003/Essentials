@@ -2,3 +2,6 @@ name: Essentials
 version: '${version}'
 main: tk.skyhill2003.essentials.Essentials
 api-version: 1.19
+
+commands:
+  essentials:
