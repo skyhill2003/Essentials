@@ -1,0 +1,4 @@
+name: Essentials
+version: '1.0-SNAPSHOT'
+main: tk.skyhill2003.essentials.Essentials
+api-version: 1.19
